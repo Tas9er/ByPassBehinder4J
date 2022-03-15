@@ -16,7 +16,7 @@
 
 命令行输入:java -jar ByPassBehinder4J.jar
 
-![01](image\01.jpg)
+![01](/image/01.jpg)
 
 提示Succussfully后返回当前文件夹，免杀版本的冰蝎Java WebShell即存在。
 
@@ -26,25 +26,25 @@
 
 **原生**冰蝎rebeyond的Java WebShell免杀效率如下:
 
-![02](image\02.jpg)
+![02](/image/02.jpg)
 
 
 
-![03](image\03.jpg)
+![03](/image/03.jpg)
 
 
 
 **免杀**冰蝎rebeyond的Java WebShell免杀效率如下:
 
-![04](image\04.jpg)
+![04](/image/04.jpg)
 
-![05](image\05.jpg)
+![05](/image/05.jpg)
 
 
 
 ##### :100:可用性测试
 
-![06](image\06.jpg)
+![06](/image/06.jpg)
 
 
 
